@@ -22,6 +22,8 @@
 ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-%23FF9E00.svg?style=for-the-badge&logo=davinci%20resolve&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+### Till I learn and add more , enjoy my work 👇
+
 
 
 <!--
