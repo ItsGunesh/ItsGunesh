@@ -1,7 +1,7 @@
 ## Hello World !
 - I’m currently learning React .
 - I love to solve DSA problems .
-- I also edit videos .
+- I also edit videos !
 
 ## Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
