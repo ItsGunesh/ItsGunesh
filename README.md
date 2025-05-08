@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World !
+- I’m currently learning React .
+- I love to solve DSA problems .
+- I also edit videos .
+
 
 <!--
 **ItsGunesh/ItsGunesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
