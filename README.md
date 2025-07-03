@@ -1,5 +1,5 @@
 ## Hello World !
-- I’m currently learning React .
+- I’m currently learning Backend .
 - I love to solve DSA problems .
 - I also edit videos !
 
