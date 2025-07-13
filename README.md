@@ -1,5 +1,5 @@
 ## Hello World !
-- I’m currently learning Backend .
+- I’m currently learning FullStack implementation .
 - I love to solve DSA problems .
 - I also edit videos !
 
