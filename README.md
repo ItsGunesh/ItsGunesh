@@ -1,4 +1,4 @@
-##  Hello World! I’m Pranay Nimje aka Gunesh
+#  Hello World! I’m Pranay Nimje aka Gunesh
 
 ##  What I’m Doing
 - Building web apps with **HTML5 · CSS3 · JavaScript · React · Node.js · Express · Tailwind · Vite**
