@@ -26,10 +26,13 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-%23FF9E00.svg?style=for-the-badge&logo=davinci%20resolve&logoColor=white)
 
+
+<!--
 ## Coding Platforms
 - Leetcode : https://leetcode.com/u/ItsGunesh/
 - CodeChef : https://www.codechef.com/users/psuedogunesh
 - GeeksForGeeks : https://www.geeksforgeeks.org/user/itsmegug735/
+-->
 
 
 ### Till I learn and add more , enjoy my work 👇
