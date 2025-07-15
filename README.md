@@ -1,11 +1,11 @@
 #  Hello World! I’m Pranay Nimje aka Gunesh
 
 ##  What I’m Doing
-- Building web apps with **HTML5 · CSS3 · JavaScript · React · Node.js · Express · Tailwind · Vite**
-- Practicing **C++** and **Python** to sharpen my DSA skills
+- Building web apps with **HTML5 · CSS3 · JavaScript · React · Node.js · Express · Tailwind · Vite**.
+- Practicing **C++** and **Python** to sharpen my language proficiency.
 - Currently learning FullStack implementation and operating with databases.
 - I love to solve DSA problems .
-- I love creating and editing videos to refine my storytelling
+- I love creating and editing videos to refine my storytelling .
 
 ## Tech Stack 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
