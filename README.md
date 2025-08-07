@@ -3,7 +3,7 @@
 ##  What I’m Doing
 - Building web apps with **HTML5 · CSS3 · JavaScript · React · Node.js · Express · Tailwind · Vite**.
 - Practicing **C++** and **Python** to sharpen my language proficiency.
-- Currently learning FullStack implementation and operating with databases.
+- Currently learning Machine Learning and Deep Learning to create usefull models.
 - I love to solve DSA problems .
 - I love creating and editing videos to refine my storytelling .
 
